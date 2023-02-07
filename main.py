@@ -203,7 +203,5 @@ elif (secenek == "6"):
     os.system("sudo aircrack-ng -w "+wordlist+" "+handsake+"")
 
 
-else:[
+else:
     print("Yanlış Giriş Yaptınız Lütfen Tekrar Deneyin...")
-]
-
